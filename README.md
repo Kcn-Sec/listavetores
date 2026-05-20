@@ -1,6 +1,6 @@
 # Lista de Vetores — Python
 
-Repositório com exercícios práticos sobre **vetores (listas)** em Python, desenvolvidos como parte de estudos de programação.
+Repositório com exercícios práticos sobre **vetores** em Python, desenvolvidos como parte de estudos de programação.
 
 ---
 
